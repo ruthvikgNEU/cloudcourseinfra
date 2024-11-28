@@ -42,5 +42,4 @@ aws acm import-certificate \
 
 <br>
 Developer - Ruthvik Garlapati <br>
-NUID - 002727922 </br>
 Email - garlapati.r@northeastern.edu
